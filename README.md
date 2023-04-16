@@ -23,4 +23,12 @@ Na primeira semana do desafio foram feitas:
 
 Todo o desenvolvimento feito na 1° semana pode ser observado no [notebook semana 1](https://github.com/wesleyfuchs/Challenge-Data-Science-1/blob/main/Alura%20Challenges%20-%20Semana%201.ipynb).
 
+## Semana 2 - Analise dos dados
+
+Na segunda semana do desafio foram feitas analises graficas dos dados para entender quais as variáveis que são relacionadas com a evasão de clientes. Para que a equipe de vendas tenha uma noção do cenário atual. </br>
+Foram feitos graficos de barra, boxplots e heatmaps. </br>
+Os graficos foram feitos utilizando as bibliotecas Mathplotlib e Seaborn.
+
+Todo o desenvolvimento feito na 2° semana pode ser observado no [notebook semana 2](https://github.com/wesleyfuchs/Challenge-Data-Science-1/blob/main/Alura%20Challenges%20-%20Semana%202.ipynb).
+
 #
